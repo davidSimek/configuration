@@ -1,0 +1,12 @@
+# GIMP gimp-crop-tool options
+
+(aspect-denominator 1080)
+(aspect-numerator 1920)
+(overridden-fixed-aspect yes)
+(shrink-merged yes)
+(pattern "Pine")
+(highlight no)
+(highlight-opacity 0.41299999999999998)
+(allow-growing yes)
+
+# end of gimp-crop-tool options

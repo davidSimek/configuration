@@ -1,0 +1,13 @@
+# settings
+
+(GimpGegl-gegl-wind-config "2024-07-21 00:16:17"
+    (time 1721513777)
+    (gimp-mode hardlight)
+    (style blast)
+    (direction left)
+    (edge leading)
+    (threshold 13)
+    (strength 10)
+    (seed 3431141508))
+
+# end of settings

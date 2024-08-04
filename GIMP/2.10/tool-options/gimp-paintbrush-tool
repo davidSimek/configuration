@@ -1,0 +1,14 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "2. Hardness 075")
+(dynamics "Dynamics Off")
+(gradient "Popředí do pozadí (RGB)")
+(palette "Color History")
+(brush-size 51)
+(brush-hardness 0.75)
+(brush-force 0.45000000000000001)
+(use-smoothing yes)
+(smoothing-quality 50)
+(smoothing-factor 138.69999999999999)
+
+# end of gimp-paintbrush-tool options
